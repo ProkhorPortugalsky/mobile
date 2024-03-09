@@ -1,0 +1,4 @@
+com.example.myapp.test.app-androidTest-0 C:\cygwin64\home\Prokhor\mobile\Lab_2\app\build\generated\res\resValues\androidTest\debug
+com.example.myapp.test.app-mergeDebugAndroidTestResources-1 C:\cygwin64\home\Prokhor\mobile\Lab_2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.myapp.test.app-mergeDebugAndroidTestResources-2 C:\cygwin64\home\Prokhor\mobile\Lab_2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.myapp.test.app-merged_res-3 C:\cygwin64\home\Prokhor\mobile\Lab_2\app\build\intermediates\merged_res\debugAndroidTest
